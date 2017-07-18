@@ -33,7 +33,7 @@ public class PrimeNumberCheckerTest {
    public static Collection primeNumbers() {
       return Arrays.asList(new Object[][] {
          { 2, true },
-         { 12, false },
+         { 11, false },
          { 19, true },
          { 22, false },
          { 23, true }
